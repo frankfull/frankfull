@@ -1,4 +1,4 @@
-<h2 align="left">Hello 👋! My name is Franklin, I am a professional in Systems Development and Support. Welcome to my profile.</h2>
+<h2 align="left">Hello 👋! My name is Franklin, I am a professional in DevOps and Support. Welcome to my profile.</h2>
 
 ###
 
